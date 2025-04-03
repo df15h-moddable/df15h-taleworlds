@@ -21,3 +21,5 @@ The devkit includes these tools [2] ...
 
 1. [Bannerlord Documentation](https://docs.bannerlordmodding.com/) @ bannerlordmodding.
 2. [Dev Blog : Modding in Bannerlord](https://www.taleworlds.com/en/Games/Bannerlord/Blog/26) @ taleworlds.
+3. [Bannerlord Modding Documentation](https://moddocs.bannerlord.com/) @ bannerlord.
+4. [API Documentation](https://apidoc.bannerlord.com/) @ bannerlord.
